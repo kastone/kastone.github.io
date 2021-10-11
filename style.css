@@ -29,7 +29,7 @@ h1 {
     font-size : clamp(3rem, 5vw, 200rem);
     font-weight: bold;
     line-height: 1.4em;
-    color: var(--dk-grey;)
+    color: var(--dk-grey);
 }
 
 h2{
@@ -171,6 +171,7 @@ article {
 
 .article-img {
     margin-bottom: 2rem;
+    max-width: 350px;
 }
 
 .contact{
