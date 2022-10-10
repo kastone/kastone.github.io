@@ -231,6 +231,12 @@ footer{
     content:'';
 }
 
+.img-bordered {
+    border-style: solid;
+    border-width: 3px;
+    border-color: lavender;
+}
+
 @media (min-width: 800px){
     .about-container{
         display: flex;
